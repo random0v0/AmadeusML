@@ -4,7 +4,8 @@
 
 사용 방법 예시 : https://imgur.com/zz8ZaFt
 
-![tutorial](https://github.com/user-attachments/assets/6446e231-f021-4468-8c5e-36462ea09f26)
+![tutorial](https://github.com/user-attachments/assets/d5b65f93-5c99-4ab8-aaaf-e73f2e76bd15)
+
 
 
 - 기능 : 타이머, 손익 + 경험치 계산기, 레벨업까지 남은 시간 계산, 이미지 캡쳐 기능
