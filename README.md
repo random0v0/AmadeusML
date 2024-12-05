@@ -1,4 +1,4 @@
-# KhalidTimerForML
+# Amadeus By Khalid
 
 # 메이플랜드 전용 계산기 Amadeus.
 
