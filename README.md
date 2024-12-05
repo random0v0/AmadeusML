@@ -1,29 +1,15 @@
 # KhalidTimerForML
 
-# 메이플랜드 전용 계산기 및 타이머입니다.
+# 메이플랜드 전용 계산기 Amadeus.
 
 사용 방법 예시 : https://imgur.com/zz8ZaFt
 
-![tutorial](https://github.com/user-attachments/assets/d5b65f93-5c99-4ab8-aaaf-e73f2e76bd15)
+
+![tutorials](https://github.com/user-attachments/assets/0f444fa0-b20a-4437-bbd4-31b3776a81bf)
 
 
 
 - 기능 : 타이머, 손익 + 경험치 계산기, 레벨업까지 남은 시간 계산, 이미지 캡쳐 기능
-
-#사용법#
-
-- F1 : 5분 타이머 시작
-
-
-- F2 : 1시간 타이머 시작
-
-
-- F3 : 초기화
-
-
-- F4 : 계산 (재입력 시 계산 화면 꺼짐)
-
-- Win + Shift + S, Ctrl + V : 영역 캡쳐 후 붙여넣기
 
 #TIP#
 
