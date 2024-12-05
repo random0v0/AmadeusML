@@ -1,7 +1,5 @@
 # Amadeus By Khalid
 
-# 메이플랜드 전용 계산기 Amadeus.
-
 사용 방법 예시 : https://imgur.com/zz8ZaFt
 
 
@@ -20,4 +18,4 @@
 
 
 
-다운로드 : https://github.com/random0v0/KhalidTimerForML/releases/tag/Last
+다운로드 : [https://github.com/random0v0/KhalidTimerForML/releases/tag/Last](https://github.com/random0v0/Project_Amadeus/releases/tag/Amadeus)
