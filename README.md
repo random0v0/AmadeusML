@@ -18,4 +18,4 @@
 
 
 
-다운로드 : [https://github.com/random0v0/KhalidTimerForML/releases/tag/Last](https://github.com/random0v0/Project_Amadeus/releases/tag/Amadeus)
+다운로드 : https://github.com/random0v0/Project_Amadeus/releases/tag/Amadeus
