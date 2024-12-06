@@ -1,6 +1,5 @@
 # Amadeus By Khalid
 
-사용 방법 예시 : https://imgur.com/zz8ZaFt
 
 
 ![392623061-0f444fa0-b20a-4437-bbd4-31b3776a81bf](https://github.com/user-attachments/assets/639b37cd-0c8b-4c40-84a4-df41b4f81e58)
